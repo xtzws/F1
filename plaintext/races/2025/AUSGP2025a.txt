@@ -1,0 +1,53 @@
+common-name: 2025 Australian Grand Prix
+key: AUSGP2025
+name: Formula 1 Louis Vuitton Australian Grand Prix
+date: 2025-03-16
+city: Melbourne
+country: Australia
+iso: AU
+race-time: 15:15
+utc-offset: +11:00
+
+circuit: Albert Park Grand Prix Circuit
+drs-zones: 4
+laps: 57
+lap-distance: 5.278
+race-distance: 300.846
+lap-record: 1:19.813
+lap-record-holder: Charles Leclerc
+lap-record-year: 2024
+
+campaign: 2025
+fastest-lap-holder: Lando Norris
+fastest-lap-time: 1:22.167
+fastest-lap-number: 43
+results:
+- P1: Lando Norris
+- P2: Max Verstappen
+- P3: George Russell
+- P4: Andrea Kimi Antonelli
+- P5: Alex Albon
+- P6: Lance Stroll
+- P7: Nico Hulkenberg
+- P8: Charles Leclerc
+- P9: Oscar Piastri
+- P10: Lewis Hamilton
+- P11: Pierre Gasly
+- P12: Tsunoda Yuki
+- P13: Esteban Ocon
+- P14: Ollie Bearman
+- CRS: Liam Lawson
+- CRS: Gabriel Bortoleto
+- CRS: Fernando Alonso
+- CRS: Carlos Sainz
+- CRS: Jack Doohan
+- CRS: Isack Hadjar
+
+incidents:
+- Andrea Kimi Antonelli: 5SP: 58: Unsafe release, rescinded
+- Liam Lawson: CRS: 46: Wet track
+- Gabriel Bortoleto: CRS: 45: Wet track
+- Fernando Alonso: CRS: 34: Wet track
+- Carlos Sainz: CRS: 1: Wet track
+- Jack Doohan: CRS: 1: Power surge
+- Isack Hadjar: CRS: 0: Wet track
